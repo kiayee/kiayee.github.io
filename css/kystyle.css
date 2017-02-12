@@ -73,7 +73,7 @@ h8	{
 .navbar-body	{
 	padding-top: 30px;
 	padding-left: 25px;
-	font-family: bambibold;
+	font-family: "bambibold";
 	font-size: 15px;
 	font-style: italic;
 	color: black;
@@ -90,7 +90,7 @@ h8	{
     margin-bottom: 0px;
     margin-left: -80px;
     width: 350px;
-    font-family: bambibold;
+    font-family: "bambibold";
     letter-spacing: 1.5px;
     font-size: small;
     color: white;
@@ -111,7 +111,7 @@ h8	{
 	color: #000000;
 	width: 550px;
 	height: 500px;
-	font-family: bambibold;
+	font-family: "bambibold";
 	font-style: bold italic;
 	font-size: 80px;
 	text-align: center;
@@ -231,7 +231,7 @@ a.black:active {
 
 
 @font-face {
-    font-family: bambibold;
+    font-family: "bambibold";
     src: url(../fonts/X_BAMBI.ttf) format('truetype'),
        	 url(../fonts/X_BAMBI.woff) format('woff');
 }
