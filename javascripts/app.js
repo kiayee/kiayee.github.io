@@ -1,3 +1,3 @@
 var alertFunction = function() {
-	window.alert("stop!!!!!!")
+	window.alert("random dialog box lel")
 };
