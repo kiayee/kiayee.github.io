@@ -42,6 +42,7 @@ h5	{
     color: white;
 }
 
+
 .img-circle	{
 	margin-top: 30px;
 	margin-left: 100px;
@@ -60,6 +61,24 @@ h8	{
 
 }
 
+.navbar	{
+	margin-top:85px;
+	margin-left: -15px;
+	background-color: white;
+	width: 400px;
+	height:	85px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.navbar-body	{
+	padding-top: 30px;
+	padding-left: 25px;
+	font-family: bambibold;
+	font-size: 15px;
+	font-style: italic;
+	color: black;
+}
+
 .nav-link-color	{
 	color: white;
 
@@ -69,14 +88,16 @@ h8	{
     margin-top: 100px;
     margin-right: 20px;
     margin-bottom: 0px;
-    margin-left: -100px;
-    width: 300px;
-    font-family: arial;
+    margin-left: -80px;
+    width: 350px;
+    font-family: bambibold;
+    letter-spacing: 1.5px;
     font-size: small;
     color: white;
 }
 
 .maintext	{
+	box-shadow: 10px 10px 5px #888888;
 	background-color: white;
 	border-radius: 20px;
 	width: 550px;
@@ -90,9 +111,9 @@ h8	{
 	color: #000000;
 	width: 550px;
 	height: 500px;
-	font-family: arial;
-	font-style: italic;
-	font-size: large;
+	font-family: bambibold;
+	font-style: bold italic;
+	font-size: 80px;
 	text-align: center;
 	padding-top: 20px;
 	padding-left: 20px;
@@ -133,7 +154,27 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: blue;
+    color: black;
+}
+
+/* unvisited link */
+a.black:link {
+    color: black;
+}
+
+/* visited link */
+a.black:visited {
+    color: black;
+}
+
+/* mouse over link */
+a.black:hover {
+    color: black;
+}
+
+/* selected link */
+a.black:active {
+    color: black;
 }
 
 
@@ -175,6 +216,11 @@ a:active {
     margin-left: 50px;
 }
 
+
+@font-face {
+    font-family: bambibold;
+    src: url(../fonts/x_bambi.ttf);
+}
 
 
 
