@@ -1,0 +1,185 @@
+h1	{
+	padding-top:10px;
+	width:200px;
+	margin-left: 110px;
+	margin-right: 10px;
+	font-family: arial;
+	font-style: italic;
+	font-size: 100px;
+	color: white;
+	border-style: solid;
+	border-radius: 20px;
+	text-align: center;
+
+}
+
+h2	{
+	padding-top:0px;
+	width:200px;
+	margin-left: 100px;
+	margin-right: 10px;
+	font-family: arial;
+	font-style: italic;
+	font-size: 100px;
+	color: white;
+}
+
+h3	{
+	font-family: arial;
+	font-style: italic;
+	font-size: 12px;
+	color: white;
+}
+
+h5	{
+	margin-top:10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left:240px;
+	width: 300px;
+    font-family: arial;
+    font-size: small;
+    color: white;
+}
+
+.img-circle	{
+	margin-top: 30px;
+	margin-left: 100px;
+}
+
+h7	{
+	margins for the main body
+}
+
+h8	{
+	attempt to put slash over "kia yee"
+}
+
+.sizeup	{
+	size: 20px;
+
+}
+
+.nav-link-color	{
+	color: white;
+
+}
+
+.bio	{
+    margin-top: 100px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-left: -100px;
+    width: 300px;
+    font-family: arial;
+    font-size: small;
+    color: white;
+}
+
+.maintext	{
+	background-color: white;
+	border-radius: 20px;
+	width: 550px;
+	height: 200px;
+	margin-top: -120px;
+	margin-bottom: 20px
+
+}
+
+.maintext-body	{
+	color: #000000;
+	width: 550px;
+	height: 500px;
+	font-family: arial;
+	font-style: italic;
+	font-size: large;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+body {
+    background-color: #f78855;
+    font-family: arial;
+    font-size: small;
+    color: white;
+}
+
+p {
+    margin-top:10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left:100px;
+    width: 320px;
+}
+
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #111; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+
+
+
+dump
+border-style: outset;
+  border-width: 5px;
+  border-color: white;
+  padding-top: 50px;

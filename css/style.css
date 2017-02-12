@@ -1,0 +1,36 @@
+
+h1	{
+	font-family: arial;
+	font-style: italic;
+	color: white;
+	text-align: center;
+	font-size: 100px;
+}
+
+h2	{
+	font-family: sans-serif;
+	font-style: italic;
+	text-align: center;
+	color: white;
+}
+
+li {
+	font-size: 14px;
+	font-family: tahoma;
+	color: purple;
+	background-color: white
+}
+
+
+
+.bluecolor	{
+	color: blue
+}
+
+#welcome	{
+	color: yellow
+}
+
+body {
+	background-color: lightblue;
+}

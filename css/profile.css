@@ -1,0 +1,19 @@
+.card {
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 50px
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("../img/budapest.jpg");
+  background-repeat: repeat-x;
+}
