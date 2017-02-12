@@ -232,7 +232,7 @@ a.black:active {
 
 @font-face {
     font-family: bambibold;
-    src: url(../fonts/X_BAMBI.ttf);
+    src: url(../fonts/X_BAMBI.ttf) format('truetype');
 }
 
 
