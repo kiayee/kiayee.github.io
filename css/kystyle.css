@@ -73,7 +73,7 @@ h8	{
 .navbar-body	{
 	padding-top: 30px;
 	padding-left: 25px;
-	font-family:'Shrikhand', cursive;
+	font-family:'Abril Fatface';
 	font-size: 15px;
 	font-style: italic;
 	color: black;
@@ -90,7 +90,7 @@ h8	{
     margin-bottom: 0px;
     margin-left: -80px;
     width: 350px;
-	font-family:'Shrikhand', cursive;
+	font-family:'Abril Fatface';
     letter-spacing: 1.5px;
     font-size: small;
     color: white;
@@ -111,7 +111,7 @@ h8	{
 	color: #000000;
 	width: 550px;
 	height: 500px;
-	font-family:'Shrikhand', cursive;
+	font-family:'Abril Fatface';
 	font-style: bold italic;
 	font-size: 80px;
 	text-align: center;
@@ -123,7 +123,7 @@ h8	{
 
 .underconstruction	{
 	color: white;
-	font-family:'Shrikhand', cursive;
+	font-family:'Abril Fatface';
 	font-style: bold italic;
 	font-size: 80px;
 	text-align: center;
